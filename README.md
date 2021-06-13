@@ -1,5 +1,5 @@
-### Hi there 👋
-<h1 align="center">Hi 👋, I'm Anıl Arif KÜLCÜ</h1>
+### 👋
+<h1 align="center">Hi, I'm Anıl Arif KÜLCÜ</h1>
 <h3 align="center">Team oriented game developer who seeks to further develop his technical and management skills in an innovative environment</h3>
 
 ### :sparkles: Status
