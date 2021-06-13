@@ -2,6 +2,10 @@
 <h1 align="center">Hi 👋, I'm Anıl Arif KÜLCÜ</h1>
 <h3 align="center">Team oriented game developer who seeks to further develop his technical and management skills in an innovative environment</h3>
 
+### :sparkles: Status
+- :telescope: I’m currently working on Indie Team
+- :seedling: I’m currently learning Advanced C#
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anıl-arif-külcü-5082051a9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anıl-arif-külcü-5082051a9" height="30" width="40" /></a>
