@@ -2,7 +2,7 @@
 <h3 align="center">Team oriented game developer who seeks to further develop his technical and management skills in an innovative environment</h3>
 
 ### :sparkles: Status
-- :telescope: I’m currently working on Indie Team
+- 🧰 I’m currently working on Indie Team
 - 💻 I’m currently learning Advanced C#
 
 
