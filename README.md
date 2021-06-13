@@ -10,7 +10,7 @@
 ### :sparkles: Released Games
 Games | Platforms | Market | Language | Game Engine | Link
 ------------ | -------------  | ------------- | ------------ | ------------- | -------------
-The Nightmare | PC | Steam | C# | Unity Engine | <a href = "https://store.steampowered.com/app/1372550/The_Nightmare/?beta=0%22%3E" Steam Page </a> 
+The Nightmare | PC | Steam | C# | Unity Engine | <a href = "https://store.steampowered.com/app/1372550/The_Nightmare/?beta=0%22%3E"> Steam Page </a> 
 NUC: After The Blast | PC | Steam | C# | Unity Engine | <a href = "https://store.steampowered.com/app/1595410/NUC_After_The_Blast/%22%3E"> Steam Page </a> 
 The Nightmare 2 | PC | Steam | C# | Unity Engine | -
 
