@@ -3,7 +3,7 @@
 
 ### :sparkles: Status
 - :telescope: I’m currently working on Indie Team
-- :seedling: I’m currently learning Advanced C#
+- 💻 I’m currently learning Advanced C#
 
 
 ### 👾 Released Games
