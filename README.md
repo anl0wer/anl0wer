@@ -15,9 +15,9 @@ NUC: After The Blast | PC | Steam | C# | Unity Engine | <a href = "https://store
 Throw Weapon | Android | Google Play Store | C# | Unity Engine | <a href = "https://play.google.com/store/apps/details?id=com.LeakageGames.ThrowaWeapon"> Play Store </a>
 
 ### ⏰ Game Jams
-Games | Platforms | Market | Language | Game Engine | Link
+Games | Platforms | Game Jam | Language | Game Engine | Link
 ------------ | -------------  | ------------- | ------------ | ------------- | -------------
-Achievement Killer | PC | itch.io | C# | Unity Engine | <a href = "https://anl0wer.itch.io/kernel"> itch.io Page </a> 
+Kernel | PC | MAGARA JAM #3 | C# | Unity Engine | <a href = "https://anl0wer.itch.io/kernel"> itch.io Page </a> 
 
 
 <h3 align="left">Connect with me:</h3>
