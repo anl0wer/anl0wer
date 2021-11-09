@@ -24,7 +24,7 @@ Intern | PC | UDO Next Jam #1 | C# | Unity Engine | <a href = "https://anl0wer.i
 ### ✨ Personel Projects
 Games | Platforms| Language | Game Engine | Link
 ------------| ------------- | ------------ | ------------- | -------------
-Case Opener | PC  | C# | Unity Engine | <a href = "https://anl0wer.itch.io/kernel"> itch.io Page </a>
+Case Opener | PC  | C# | Unity Engine | <a href = "https://github.com/anl0wer/anlower-Case-Opener"> Github Page </a>
 
 
 <h3 align="left">Connect with me:</h3>
