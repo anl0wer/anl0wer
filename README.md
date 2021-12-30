@@ -2,7 +2,7 @@
 <h3 align="center">Team oriented game developer who seeks to further develop his technical and management skills in an innovative environment</h3>
 
 ### 📊 Status
-- 🧰 I’m currently working on Indie Team
+- 🧰 I’m currently working in an Indie Team
 - 💻 I’m currently learning Advanced C#
 
 
@@ -21,7 +21,7 @@ Kernel | PC | MAĞARA Jam #3 | C# | Unity Engine | <a href = "https://anl0wer.it
 Intern | PC | UDO Next Jam #1 | C# | Unity Engine | <a href = "https://anl0wer.itch.io/intern"> itch.io Page </a>
 
 
-### ✨ Personel Projects
+### ✨ Personal Projects
 Games | Platforms| Language | Game Engine | Link
 ------------| ------------- | ------------ | ------------- | -------------
 Case Opener | PC  | C# | Unity Engine | <a href = "https://github.com/anl0wer/anlower-Case-Opener"> Github Page </a>
