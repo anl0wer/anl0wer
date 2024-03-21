@@ -14,6 +14,8 @@ The Nightmare | PC | Steam | C# | Unity Engine | <a href = "https://store.steamp
 NUC: After The Blast | PC | Steam | C# | Unity Engine | <a href = "https://store.steampowered.com/app/1595410/NUC_After_The_Blast/%22%3E"> Steam Page </a>
 Throw Weapon | Android | Google Play Store | C# | Unity Engine | <a href = "https://play.google.com/store/apps/details?id=com.LeakageGames.ThrowaWeapon"> Play Store</a>
 Farmland Realm | PC | Steam | C# | Unity Engine | <a href = "https://store.steampowered.com/app/1957910/Farmland_Realm/"> Steam Page </a> 
+Fantasy Monster Clicker | PC | Steam | C# | Unity Engine | <a href = "(https://store.steampowered.com/app/2554770/Fantasy_Monster_Clicker/)"> Steam Page </a>
+Elevator Experience | PC | Steam | C# | Unity Engine | <a href = "https://store.steampowered.com/app/2790340/Elevator_Experience/"> Steam Page </a> 
 
 ### ⏰ Game Jams
 Games | Platforms | Game Jam | Language | Game Engine | Link
